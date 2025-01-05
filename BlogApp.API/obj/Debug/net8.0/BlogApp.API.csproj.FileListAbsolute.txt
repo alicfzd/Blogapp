@@ -1,0 +1,6 @@
+C:\Users\99460\Desktop\BlogApp\BlogApp.API\obj\Debug\net8.0\BlogApp.API.csproj.AssemblyReference.cache
+C:\Users\99460\Desktop\BlogApp\BlogApp.API\obj\Debug\net8.0\BlogApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99460\Desktop\BlogApp\BlogApp.API\obj\Debug\net8.0\BlogApp.API.AssemblyInfoInputs.cache
+C:\Users\99460\Desktop\BlogApp\BlogApp.API\obj\Debug\net8.0\BlogApp.API.AssemblyInfo.cs
+C:\Users\99460\Desktop\BlogApp\BlogApp.API\obj\Debug\net8.0\BlogApp.API.csproj.CoreCompileInputs.cache
+C:\Users\99460\Desktop\BlogApp\BlogApp.API\obj\Debug\net8.0\BlogApp.API.MvcApplicationPartsAssemblyInfo.cache
